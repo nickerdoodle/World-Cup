@@ -1,0 +1,22 @@
+C:\Users\Owner\source\repos\WorldCup\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\Owner\source\repos\WorldCup\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\Owner\source\repos\WorldCup\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.Properties.Resources.resources
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.GenerateResource.Cache
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.pdb
+C:\Users\Owner\source\repos\WorldCup\WorldCup\obj\Debug\WorldCup.frmMain.resources
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\obj\Debug\WorldCup.frmMain.resources
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\obj\Debug\WorldCup.Properties.Resources.resources
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.GenerateResource.Cache
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\profgreg\source\repos\WorldCup\WorldCup\WorldCup\obj\Debug\WorldCup.pdb
+C:\Users\nmmah\Desktop\Past School Projects\WorldCup\WorldCup\obj\Debug\WorldCup.csprojAssemblyReference.cache
+C:\Users\nmmah\Desktop\Past School Projects\WorldCup\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\nmmah\Desktop\Past School Projects\WorldCup\WorldCup\obj\Debug\WorldCup.pdb
